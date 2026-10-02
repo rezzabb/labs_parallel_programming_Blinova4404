@@ -23,7 +23,11 @@ gcc task3.c -o task3.exe -fopenmp
 
 ### Задача 3
 ./task3.exe 8 1
+
 ./task3.exe 8 2
+
 ./task3.exe 8 3
+
 ./task3.exe 8 4
+
 ./task3.exe 8 5
