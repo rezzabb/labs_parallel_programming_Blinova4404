@@ -18,7 +18,9 @@ gcc task3.c -o task3.exe -fopenmp
 
 ### Задача 2
 ./task2.exe 8 static
+
 ./task2.exe 8 dynamic
+
 ./task2.exe 8 guided
 
 ### Задача 3
